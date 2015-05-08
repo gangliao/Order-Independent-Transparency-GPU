@@ -45,7 +45,7 @@ Shell Sort
 ```
 The effect of OIT via merge sort is shown as the following figure.
 
-<img src=”/result/oit.git” width=”60%”/> 
+<img src=”/result/oit.git” width=”60%”/>
 
 
 
