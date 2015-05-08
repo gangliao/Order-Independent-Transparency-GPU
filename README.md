@@ -31,6 +31,23 @@ The algorithm can be expressed as three phases:
     2. blending fragments in sorted order with background.
     3. output final fragments.
 
+###Result
+In fragment shader, some classical sort algorithms are implemented. 
+
+For instance, 
+
+```
+Insert Sort
+Select Sort
+Bubble Sort
+Merge Sort
+Shell Sort
+```
+The effect of OIT via merge sort is shown as the following figure.
+
+<img src=”/result/oit.git” width=”60%”/> 
+
+
 
 ###COPYRIGHT
 Gang Liao, liao.gang@kaust.edu.sa 
