@@ -31,3 +31,7 @@ The algorithm can be expressed as three phases:
     2. blending fragments in sorted order with background.
     3. output final fragments.
 
+
+###COPYRIGHT
+Gang Liao, liao.gang@kaust.edu.sa 
+
