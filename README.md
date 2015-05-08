@@ -34,7 +34,6 @@ The algorithm can be expressed as three phases:
 ###Result
 In fragment shader, some classical sort algorithms are implemented. 
 
-For instance, 
 
 ```
 Insert Sort
@@ -48,7 +47,10 @@ The effect of OIT via merge sort is shown as the following figure.
 <img src=/result/oit.gif width=60%/>
 
 
+###Acknowledge
+Thanks for the basic code of GLSL COOKBOOK.
 
 ###COPYRIGHT
 Gang Liao, liao.gang@kaust.edu.sa 
+
 
