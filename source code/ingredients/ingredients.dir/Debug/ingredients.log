@@ -1,0 +1,61 @@
+﻿Build started 2015/5/1 10:57:15.
+     1>Project "C:\Users\GreenHat\Desktop\oit-master\cmake\ingredients\ingredients.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/GreenHat/Desktop/oit-master/ingredients/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\GreenHat\Desktop\oit-master\cmake\ingredients\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\GreenHat\Desktop\oit-master\ingredients" /I"C:\Users\GreenHat\Desktop\oit-master\glm" /I"C:\Users\GreenHat\Desktop\oit-master\glfw\include" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"ingredients.dir\Debug\\" /Fd"ingredients.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\GreenHat\Desktop\oit-master\ingredients\vboteapotpatch.cpp" "C:\Users\GreenHat\Desktop\oit-master\ingredients\vboteapot.cpp" "C:\Users\GreenHat\Desktop\oit-master\ingredients\drawable.cpp" "C:\Users\GreenHat\Desktop\oit-master\ingredients\vbomeshadj.cpp" "C:\Users\GreenHat\Desktop\oit-master\ingredients\vbotorus.cpp" "C:\Users\GreenHat\Desktop\oit-master\ingredients\glutils.cpp" "C:\Users\GreenHat\Desktop\oit-master\ingredients\vbomesh.cpp" "C:\Users\GreenHat\Desktop\oit-master\ingredients\glslprogram.cpp" "C:\Users\GreenHat\Desktop\oit-master\ingredients\vbocube.cpp" "C:\Users\GreenHat\Desktop\oit-master\ingredients\vboplane.cpp" "C:\Users\GreenHat\Desktop\oit-master\ingredients\vbosphere.cpp" "C:\Users\GreenHat\Desktop\oit-master\ingredients\bmpreader.cpp" "C:\Users\GreenHat\Desktop\oit-master\ingredients\tgaio.cpp"
+         vboteapotpatch.cpp
+         vboteapot.cpp
+         drawable.cpp
+         vbomeshadj.cpp
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\vbomeshadj.cpp(233): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\vbomeshadj.cpp(391): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\vbomeshadj.cpp(392): warning C4267: '=' : conversion from 'size_t' to 'unsigned int', possible loss of data
+         vbotorus.cpp
+         glutils.cpp
+         vbomesh.cpp
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\vbomesh.cpp(287): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\vbomesh.cpp(288): warning C4267: '=' : conversion from 'size_t' to 'unsigned int', possible loss of data
+         glslprogram.cpp
+         vbocube.cpp
+         vboplane.cpp
+         vbosphere.cpp
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\vbosphere.cpp(11): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\vbosphere.cpp(13): warning C4244: '=' : conversion from 'float' to 'GLuint', possible loss of data
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\vbosphere.cpp(14): warning C4244: '=' : conversion from 'float' to 'GLuint', possible loss of data
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\vbosphere.cpp(80): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\vbosphere.cpp(81): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\vbosphere.cpp(106): warning C4244: 'initializing' : conversion from 'float' to 'GLuint', possible loss of data
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\vbosphere.cpp(107): warning C4244: 'initializing' : conversion from 'float' to 'GLuint', possible loss of data
+         bmpreader.cpp
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\bmpreader.cpp(108): warning C4309: '=' : truncation of constant value
+         tgaio.cpp
+     1>c:\users\greenhat\desktop\oit-master\ingredients\tgaio.h(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\greenhat\desktop\oit-master\ingredients\tgaio.h(40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\tgaio.cpp(47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>C:\Users\GreenHat\Desktop\oit-master\ingredients\tgaio.cpp(110): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\GreenHat\Desktop\oit-master\ingredients" /I"C:\Users\GreenHat\Desktop\oit-master\glm" /I"C:\Users\GreenHat\Desktop\oit-master\glfw\include" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"ingredients.dir\Debug\\" /Fd"ingredients.dir\Debug\vc120.pdb" /Gd /TC /errorReport:prompt "C:\Users\GreenHat\Desktop\oit-master\ingredients\gl_core_4_4.c"
+         gl_core_4_4.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\GreenHat\Desktop\oit-master\cmake\ingredients\Debug\ingredients.lib" /NOLOGO /MACHINE:X64 ingredients.dir\Debug\vboteapotpatch.obj
+         ingredients.dir\Debug\vboteapot.obj
+         ingredients.dir\Debug\drawable.obj
+         ingredients.dir\Debug\vbomeshadj.obj
+         ingredients.dir\Debug\vbotorus.obj
+         ingredients.dir\Debug\glutils.obj
+         ingredients.dir\Debug\vbomesh.obj
+         ingredients.dir\Debug\glslprogram.obj
+         ingredients.dir\Debug\vbocube.obj
+         ingredients.dir\Debug\vboplane.obj
+         ingredients.dir\Debug\vbosphere.obj
+         ingredients.dir\Debug\bmpreader.obj
+         ingredients.dir\Debug\tgaio.obj
+         ingredients.dir\Debug\gl_core_4_4.obj
+         ingredients.vcxproj -> C:\Users\GreenHat\Desktop\oit-master\cmake\ingredients\Debug\ingredients.lib
+     1>Done Building Project "C:\Users\GreenHat\Desktop\oit-master\cmake\ingredients\ingredients.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.37

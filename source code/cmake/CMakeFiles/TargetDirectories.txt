@@ -1,0 +1,4 @@
+C:/Users/GreenHat/Desktop/oit-master/cmake/src/CMakeFiles/SRC.dir
+C:/Users/GreenHat/Desktop/oit-master/cmake/CMakeFiles/ALL_BUILD.dir
+C:/Users/GreenHat/Desktop/oit-master/cmake/ingredients/CMakeFiles/ingredients.dir
+C:/Users/GreenHat/Desktop/oit-master/cmake/CMakeFiles/ZERO_CHECK.dir

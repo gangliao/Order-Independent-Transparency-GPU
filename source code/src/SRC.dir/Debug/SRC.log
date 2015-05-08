@@ -1,0 +1,16 @@
+﻿Build started 2015/5/4 15:17:54.
+     1>Project "C:\Users\GreenHat\Desktop\oit-master\src\SRC.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\GreenHat\Desktop\oit-master\ingredients" /I"C:\Users\GreenHat\Desktop\oit-master\glm" /I"C:\Users\GreenHat\Desktop\oit-master\glfw\include" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"SRC.dir\Debug\\" /Fd"SRC.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\GreenHat\Desktop\oit-master\src\main.cpp"
+         main.cpp
+     1>C:\Users\GreenHat\Desktop\oit-master\src\main.cpp(53): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\GreenHat\Desktop\oit-master\src\main.cpp(59): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\GreenHat\Desktop\oit-master\cmake\src\Debug\SRC.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\GreenHat\Desktop\oit-master\glfw\lib-vc2013" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\ingredients\Debug\ingredients.lib "..\..\glfw\lib-vc2013\glfw3.lib" opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/GreenHat/Desktop/oit-master/cmake/src/Debug/SRC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/GreenHat/Desktop/oit-master/cmake/src/Debug/SRC.lib" /MACHINE:X64  /machine:x64 /debug SRC.dir\Debug\main.obj
+         SRC.dir\Debug\sceneoit.obj
+         SRC.vcxproj -> C:\Users\GreenHat\Desktop\oit-master\cmake\src\Debug\SRC.exe
+     1>Done Building Project "C:\Users\GreenHat\Desktop\oit-master\src\SRC.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.25
