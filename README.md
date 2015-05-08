@@ -21,6 +21,7 @@ shader.
 ###Algorithm Phase
 
 The algorithm can be expressed as three phases:
+
 1. Render opaque scene objects.
 2. Render transparent scene objects.
     1. All fragments are stored using per-pixel linked lists.
