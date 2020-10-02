@@ -38,9 +38,7 @@ The effect of OIT via merge sort is shown as the following figure.
 
 <img src=/result/oit.gif width=60%>
 
-<img src=/result/OIT_R1.jpg width=60%>
 
-<img src=/result/OIT_R2.jpg width=60%>
 
 ### Acknowledge
 
